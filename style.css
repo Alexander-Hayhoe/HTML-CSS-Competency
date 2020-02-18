@@ -1,0 +1,124 @@
+                          /* Global */
+body{
+  background-color: rgb(36, 43, 25);
+}
+
+                          /* Tab Elements */
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  margin-right: 20px;
+  line-height: 70px;
+  font-family: monospace;
+  display: inline-block;
+}
+a:hover{
+  color: rgb(202, 15, 15);
+}
+
+                          /* Classes */
+.center{
+  text-align: center;
+}
+
+                          /* Banner Elements*/
+img.banner{
+  max-width: 100%;
+  max-height: 100%;
+  border: 5px solid black;
+  margin-left: -6px;
+  overflow: hidden;
+}
+
+                          /* Merch Elements */
+.merch{
+  height: 500px;
+  width: auto;
+  text-align: center
+}
+
+.border{
+  border: 5px rgb(180, 0, 0) solid;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 40px;
+}
+
+/*Phone Case*/
+h3.merch1{
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  margin-left: 180px;
+  width: 475px;
+  margin-bottom: -10px;
+  margin-top: -2px;
+}
+
+.merchdesc1{
+  margin-left: 180px;
+  width: 475px;
+  color: white;
+}
+
+/*White Hoodie*/
+h3.merch2{
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  margin-left: 700px;
+  width: 475px;
+  margin-top: -130px;
+  margin-bottom: -13px;
+}
+
+.merchdesc2{
+  margin-left: 700px;
+  width: 475px;
+  color: white;
+}
+
+/*Black Hoodie*/
+h3.merch3{
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  margin-left: 1250px;
+  width: 475px;
+  margin-top: -130px;
+  margin-bottom: -13px;
+}
+
+.merchdesc3{
+  margin-left: 1250px;
+  width: 475px;
+  color: white;
+}
+
+                                  /*Music*/
+.resize{
+  width: auto;
+  height: 200px;
+  margin-top: 20px;
+}
+
+.thumbborder{
+  border: 5px solid black;
+  padding-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+}
+
+.tunespacing{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form{
+  margin-left: 0px;
+  margin-top: -600px;
+  color: rgb(204, 204, 204);
+}
